@@ -1,7 +1,9 @@
 create database project3;
 show databases;
 use project3;
+
 show variables like 'secure_file_priv';
+#it shows location where we have to save all csv files for importing data
 
 #create table job_data_final
 create table job_data_final(
