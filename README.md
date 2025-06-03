@@ -1,27 +1,31 @@
 # Operation-Analytics-and-Investigating-Metric-Spike
-This project involves analyzing job review data and user engagement metrics 
-to derive meaningful insights. The study is divided into two case studies: 
-1. Job Data Analysis:
+## 📊 Project Description
 
-• Analyzing job reviews over time. 
+This project involves analyzing **job review data** and **user engagement metrics** to uncover meaningful insights that can optimize workflow efficiency and enhance user engagement strategies.
 
-• Measuring throughput using a rolling average. 
+The study is structured into **two case studies**:
 
-• Determining language distribution. 
+---
 
-• Detecting duplicate job records. 
+### 🧾 Case Study 1: Job Data Analysis
 
-2. Investigating Metric Spike: 
+- Analyzing **job reviews over time**  
+- Measuring **throughput** using a **rolling average**  
+- Determining **language distribution**  
+- Detecting **duplicate job records**
 
-• Measuring weekly user engagement. 
+---
 
-• Understanding user growth. 
+### 📈 Case Study 2: Investigating Metric Spike
 
-• Analyzing user retention based on signup cohorts. 
+- Measuring **weekly user engagement**  
+- Understanding **user growth trends**  
+- Analyzing **user retention** based on **signup cohorts**  
+- Evaluating **device-based engagement**  
+- Investigating **email engagement trends**
 
-• Evaluating device-based engagement. 
+---
 
-• Investigating email engagement trends. 
+### 🎯 Outcome
 
-The insights from this study will help optimize workflow efficiency and user 
-engagement strategies.
+The insights derived from both case studies are intended to inform **data-driven decisions**, improve **operational efficiency**, and enhance **user engagement** across platforms.
